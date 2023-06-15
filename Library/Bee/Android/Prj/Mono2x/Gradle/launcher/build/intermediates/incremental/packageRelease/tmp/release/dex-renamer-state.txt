@@ -1,0 +1,4 @@
+#Sat Jun 03 01:00:49 JST 2023
+base.0=/Users/yumonji/Tictactoe_advance/Library/Bee/Android/Prj/Mono2x/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
