@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{74FF44C9-7B0A-0DBB-A1B1-B0F49C0EDB81}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Tile.cs">
+    <Files>
+      <File FileName="Assets/Scripts/GridManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Tile.cs" Line="37" Column="37" />
+      <File FileName="Assets/Scripts/GameManager.cs" Line="106" Column="47" />
+      <File FileName="Assets/RestartButton.cs" Line="16" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Tictactoe_advance" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Tile.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yumonji/Tictactoe_advance/Assets/Scripts/Tile.cs" relfile="Assets/Scripts/Tile.cs" line="44" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="29aaccb7-1861-4225-a9f4-0cc78ed95198" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
